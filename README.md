@@ -1,6 +1,6 @@
 # Perlin-Noise-Contours Shader
 
-[![ShaderToy Demo](demo.jpg)](https://www.shadertoy.com/view/WX3czl)
+[![ShaderToy Demo](demo.png)](https://www.shadertoy.com/view/WX3czl)
 
 A procedural shader creating smooth, animated contour lines using Perlin noise. Multiple line frequencies are layered to produce visually appealing flowing patterns.
 
